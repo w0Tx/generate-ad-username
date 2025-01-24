@@ -13,7 +13,7 @@ SurnameN
 Surname.N
 3 random letters and 3 random numbers (abc123) --> This one is not implemented
 
-https://book.hacktricks.xyz/windows/active-directory-methodology#cheat-sheet
+https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/index.html#recon-active-directory-no-credssessions
 """
 
 import csv
