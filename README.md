@@ -4,7 +4,7 @@ This script has been made for quick creation of usernames to use against AD when
 
 It's not perfect, feel free to modify it.
 
-Naming convention can be found there : https://book.hacktricks.xyz/windows/active-directory-methodology#cheat-sheet
+Naming convention can be found there : [https://book.hacktricks.xyz/windows/active-directory-methodology#cheat-sheet](https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/index.html#recon-active-directory-no-credssessions)
 
 ```
 NameSurname
